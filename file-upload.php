@@ -20,7 +20,6 @@
 	print_r($_FILES);
 	echo "</pre>";
 
-
 	// }
 
 	?>
@@ -102,6 +101,5 @@
 			$(this).parent().remove();
 		}
 	</script>
-
 </body>
 </html>
